@@ -4,8 +4,6 @@
 
 A professional portfolio website for **Paranchai Malaikanok**, showcasing research highlights, publications, and professional certifications. The site features a **Neo-minimalist Bauhaus** aesthetic—fusing authoritative modernism with interactive digital elements.
 
-![Portfolio Preview](my_profile/publication/Screenshot%202026-04-16%20150006.png) <!-- Placeholder for actual screenshot if available -->
-
 ## 🎨 Design Philosophy: Neo-minimalist Bauhaus
 The project follows a high-contrast, geometric design system inspired by the Bauhaus movement, enhanced with "Neo-Minimal" floating components.
 - **Typography:** Bold geometric headings in **Space Grotesk** paired with highly readable **Inter** body text.
